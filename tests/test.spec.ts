@@ -1,5 +1,5 @@
 import { test } from "./fixtures";
-import testData from "../data/testData.json"; // Adjust the path as per your project structure
+import testData from "../data/testData.json";
 
 testData.forEach(({ tab, tests }) => {
   test.describe(`${tab} Application Project Tests`, () => {

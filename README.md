@@ -4,8 +4,6 @@
 This repository contains a Playwright-driven test suite designed to validate functionalities for a demo application, following a data-driven approach to minimize code duplication and improve scalability.
 
 ## **Test Cases**
-# Test Cases for LoopQA Demo App
-
 ### Test Case 1
 **Description:**
 1. Login to the Demo App.

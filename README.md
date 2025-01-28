@@ -4,27 +4,46 @@
 This repository contains a Playwright-driven test suite designed to validate functionalities for a demo application, following a data-driven approach to minimize code duplication and improve scalability.
 
 ## **Test Cases**
+# Test Cases for LoopQA Demo App
 
-1. **Login to Demo App**  
-   - Navigate to the "Web Application" tab.
-   - Verify "Implement user authentication" in the "To Do" column with tags "Feature" and "High Priority."
+### Test Case 1
+**Description:**
+1. Login to the Demo App.
+2. Navigate to the "Web Application" tab.
+3. Verify "Implement user authentication" is in the "To Do" column.
+4. Confirm tags: "Feature" and "High Priority."
 
-2. **Login to Demo App**  
-   - Navigate to the "Web Application" tab.
-   - Verify "Fix navigation bug" in the "To Do" column with the tag "Bug."
+### Test Case 2
+**Description:**
+1. Login to the Demo App.
+2. Navigate to the "Web Application" tab.
+3. Verify "Fix navigation bug" is in the "To Do" column.
+4. Confirm tags: "Bug."
 
-3. **Login to Demo App**  
-   - Navigate to the "Web Application" tab.
-   - Verify "Design system updates" in the "In Progress" column with the tag "Design."
+### Test Case 3
+**Description:**
+1. Login to the Demo App.
+2. Navigate to the "Web Application" tab.
+3. Verify "Design system updates" is in the "In Progress" column.
+4. Confirm tags: "Design."
 
-4. **Login to Demo App**  
-   - Navigate to the "Mobile Application" tab.
-   - Verify "Push notification system" in the "To Do" column with the tag "Feature."
+### Test Case 4
+**Description:**
+1. Login to the Demo App.
+2. Navigate to the "Mobile Application" tab.
+3. Verify "Push notification system" is in the "To Do" column.
+4. Confirm tags: "Feature."
 
-5. **Login to Demo App**  
-   - Navigate to the "Mobile Application" tab.
-   - Verify "Offline mode" in the "In Progress" column with tags "Feature" and "High Priority."
+### Test Case 5
+**Description:**
+1. Login to the Demo App.
+2. Navigate to the "Mobile Application" tab.
+3. Verify "Offline mode" is in the "In Progress" column.
+4. Confirm tags: "Feature" and "High Priority."
 
-6. **Login to Demo App**  
-   - Navigate to the "Mobile Application" tab.
-   - Verify "App icon design" in the "Done" column with the tag "Design."
+### Test Case 6
+**Description:**
+1. Login to the Demo App.
+2. Navigate to the "Mobile Application" tab.
+3. Verify "App icon design" is in the "Done" column.
+4. Confirm tags: "Design."
